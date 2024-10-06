@@ -1,0 +1,16 @@
+button {
+	background-color: #10d4f2;
+	color: rgb(43, 13, 236); 
+	border-radius: 10px;
+	border-color: #ff07e6;
+}
+
+.card-body {
+	background-color: #9af197;
+}
+
+body {
+	background-image: url("https://i.pinimg.com/originals/aa/fe/d1/aafed155ce08d1fe6201cbb1dab984ab.gif"); 
+	background-size: 1800px, 500px; 
+	background-position: center;
+}
